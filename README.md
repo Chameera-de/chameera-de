@@ -45,8 +45,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Learn Coding]()
-- [How to become a ios Developer](https://github.com/Chameera-de/IOS-Developer-Roadmap)
+- [How to Learn Coding](https://info-chameera-de.medium.com/how-to-learn-coding-a4128f4809ef)
+- [How to Become An ios Developer](https://github.com/Chameera-de/IOS-Developer-Roadmap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
