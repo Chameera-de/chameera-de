@@ -1,15 +1,16 @@
-### Hi there, I'm Chameera 👋
+### Haiya there  👋
 
-## I'm a Undergraduate, Developer, IEEEian and a Open-Source enthusiast Specialized in Native IOS & Data Science 
+## My name is Chameera De Silva. You may know me as the guy who will one day rule the universe. You will be calling me "Your Majesty" one day. But for now, you may call me Cham or Conan.
 
-- 🌱 I’m currently learning everything 🤣
-- 🧑🏻‍🤝‍🧑 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read , listen to music & Play Guitar
+
+- 🔭 I work as a Software Engineer.
+- 🌱 I’m currently learning about Machine Learning and Artificial Intelligence.
+- 💬 Ask me about the cool side projects I'm working on.
+- ⚡ Fun fact: The average person eats 5 bathtubs of pudding in their lifetime.
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="lihini's fav Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="lihini's fav Spotify Playing" width="400" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
