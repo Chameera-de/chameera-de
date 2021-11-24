@@ -1,6 +1,6 @@
 ### Haiya there  👋
 
-## My name is Chameera De Silva. You may know me as the guy who will one day rule the universe. You will be calling me "Your Majesty" one day. But for now, you may call me Cham or Conan.
+## My name is C De Silva. You may know me as the guy who will one day rule the universe. You will be calling me "Your Majesty" one day. But for now, you may call me Cham or Conan.
 
 
 - 🔭 I work as a Software Engineer.
