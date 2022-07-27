@@ -1,16 +1,16 @@
 ### Haiya there  👋
 
-## My name is C De Silva. You may know me as the guy who will one day rule the universe. You will be calling me "Your Majesty" one day. But for now, you may call me Cham or Conan.
+## My name is C De Silva. You may know me as the guy who will one day rule the universe. You will be calling me "Your Majesty" one day. But for now, you may call me Cham or CodeOwl.
 
 
-- 🔭 I work as a Software Engineer.
+- 🔭 I work as a Research Assistant.
 - 🌱 I’m currently learning about Machine Learning and Artificial Intelligence.
 - 💬 Ask me about the cool side projects I'm working on.
 - ⚡ Fun fact: The average person eats 5 bathtubs of pudding in their lifetime.
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="lihini's fav Spotify Playing" width="400" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="chameera's fav Spotify Playing" width="400" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
